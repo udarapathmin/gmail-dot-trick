@@ -8,6 +8,13 @@ Email generator can quickly create multiple aliases for your gmail. So having on
 ## Demo
 **URL - [https://helptricks.com/tools/gmail-dot-trick/](https://helptricks.com/tools/gmail-dot-trick/)**  
 
+
+## Keywords
+
+- gmail dot trick generator
+- gmail dot trick
+- gmain generator
+
 ## Author
 
 - Udara Karunarathna
